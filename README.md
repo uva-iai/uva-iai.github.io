@@ -1,6 +1,4 @@
-# This is a test
-
-# Universiteit Van Amsterdam Inclusive Artificial Intelligence
+# Universiteit Van Amsterdam Inclusive AI
 
 ## Statement on UVA IAI
 
