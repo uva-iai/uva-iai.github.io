@@ -36,6 +36,7 @@ I am a postdoc in Max Welling’s new Philips group at the UvA. I did my PhD at 
 My research focuses on generalizing convolution, approximate Bayesian inference, optimization, uncertainty quantification, and medical imaging.
 
 ### Marco Federici
+<img src="images/marco.jpg" alt="Marco" width="200" height="200" align="left" hspace="20">
 I am a Ph.D. student in the AMLab group, supervised by Dr. Zeynep Akata and prof Max Welling in collaboration with Microsoft Research Cambridge.
 I studied computer science at the University of Trento and completed a master degree in Artificial Intelligence at the University of Amsterdam.
 My research involves multimodal, zero-shot and unsupervised learning for text and visual sources, with a focus on information theory, Bayesian inference, and deep learning.
