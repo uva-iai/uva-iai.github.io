@@ -30,8 +30,9 @@ I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumni
 My research focus lies in machine learning. In particular, I am interested in statistical inference, information theory, deep learning, Bayesian methods, geometric methods and graph theory. I apply techniques of the aforementioned to problems in structural and systems biology, compression, sequential data (e.g. music, environmental data) and real-time sensoring.
 
 ### Daniel Worrall
-I am a postdoc in Max Welling's new Philips group at the UvA. I did my PhD at UCL in the Machine Vision Group. Before that I studied engineering at The University of Cambridge, and am a scholar of Sidney Sussex College. I am currently lecturing Probability Theory for Machine Learning, and am the lab manager for the Philips lab at the UvA.
+<img src="images/daniel.jpeg" alt="Daniel" width="200" height="200" align="left" hspace="20">
+I am a postdoc in Max Welling’s new Philips group at the UvA. I did my PhD at UCL in the Machine Vision Group. Before that I studied engineering at The University of Cambridge, and am a scholar of Sidney Sussex College. I am currently lecturing Probability Theory for Machine Learning, and am the lab manager for the Philips lab at the UvA.
 
-My research focuses on generalizing convolution, approximate Bayesian inference, optimization, uncertainty quantification, and medical imaging. 
+My research focuses on generalizing convolution, approximate Bayesian inference, optimization, uncertainty quantification, and medical imaging.
 
 ## Contact
