@@ -41,4 +41,10 @@ I am a Ph.D. student in the AMLab group, supervised by Dr. Zeynep Akata and prof
 I studied computer science at the University of Trento and completed a master degree in Artificial Intelligence at the University of Amsterdam.
 My research involves multimodal, zero-shot and unsupervised learning for text and visual sources, with a focus on information theory, Bayesian inference, and deep learning.
 
+### Elise van der Pol
+<img src="images/elise.jpg" alt="Elise" width="200" height="200" align="left" hspace="20">
+I am a PhD student in Deltalab, supervised by Max Welling &#38; Frans Oliehoek (TU Delft). Before starting my PhD, I studied Artificial Intelligence at the University of Amsterdam. 
+
+My main research interests are reinforcement learning, multi-agent coordination and meta-RL, but I am also interested in deep learning and generative modeling, especially for use in planning &#38; learning for control.
+
 ## Contact
