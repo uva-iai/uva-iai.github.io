@@ -25,8 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Karen Ullrich
 <img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumni of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer. I studied Physics and Numerical Simulations in Leipzig and Amsterdam.
-
+I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer. I studied Physics and Numerical Simulations in Leipzig and Amsterdam.
 My research focus lies in machine learning. In particular, I am interested in statistical inference, information theory, deep learning, Bayesian methods, geometric methods and graph theory. I apply techniques of the aforementioned to problems in structural and systems biology, compression, sequential data (e.g. music, environmental data) and real-time sensoring.
 
 ### Daniel Worrall
@@ -46,5 +45,10 @@ My research involves multimodal, zero-shot and unsupervised learning for text an
 I am a PhD student in Deltalab, supervised by Max Welling &#38; Frans Oliehoek (TU Delft). Before starting my PhD, I studied Artificial Intelligence at University of Amsterdam. 
 
 My main research interests are reinforcement learning, multi-agent coordination and meta-RL, but I am also interested in deep learning and generative modeling, especially for use in planning &#38; learning for control.
+
+
+### Rianne van den Berg
+<img src="images/RiannevdB-foto.jpg" alt="Elise" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I am a postdoctoral researcher in machine learning at the University of Amsterdam under the supervision of Prof. Max Welling. My main research interest is deep generative modeling from a probabilistic point of view. In particular, I work on variational inference, normalizing flows and generative adversarial networks. Recently, I also became interested in deep learning for dynamical systems described by differential equations. I am also interested in deep learning for graph-based data.
 
 ## Contact
