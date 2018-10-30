@@ -52,7 +52,7 @@ My main research interests are reinforcement learning, multi-agent coordination 
 I am a postdoctoral researcher in machine learning at the University of Amsterdam under the supervision of Prof. Max Welling. My main research interest is deep generative modeling from a probabilistic point of view. In particular, I work on variational inference, normalizing flows and generative adversarial networks. Recently, I also became interested in deep learning for dynamical systems described by differential equations. I am also interested in deep learning for graph-based data.
 
 ### Rodolfo (Rudy) Corona
-<img src="images/rudy.jpeg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+<img src="images/rudy.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a visiting researcher working with Dr. Zeynep Akata under the support of a Fulbright grant. I recently completed my bachelors degree at the University of Texas at Austin and will start a PhD at UC Berkeley after my grant ends in June 2019. I work at the intersection of natural language processing and computer vision, and am interested in language grounding, semantics, and theory of mind.
 
 ## Contact
