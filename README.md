@@ -21,7 +21,7 @@ We created a [mailing list](https://groups.google.com/forum/#!forum/uva-iai) tha
 ## List of mentors
 ### Karen Ullrich
 <img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer. I studied Physics and Numerical Simulations in Leipzig and Amsterdam.
+I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer.
 My research focus lies in machine learning. In particular, I am interested in statistical inference, information theory, deep learning, Bayesian methods, geometric methods and graph theory. I apply techniques of the aforementioned to problems in structural and systems biology, compression, sequential data (e.g. music, environmental data) and real-time sensoring.
 
 <div style="clear:left;"></div>
