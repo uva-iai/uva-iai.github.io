@@ -19,10 +19,6 @@ We created a [mailing list](https://groups.google.com/forum/#!forum/uva-iai) tha
 ## Mentorships
 
 ## List of mentors
-### Maximilian Ilse
-<img src="images/maxi.jpg" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Karen Ullrich
 <img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer. I studied Physics and Numerical Simulations in Leipzig and Amsterdam.
@@ -58,5 +54,9 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
 ### Pascal Mettes
 <img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.
+
+### Maximilian Ilse
+<img src="images/maxi.jpg" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).
 
 ## Contact
