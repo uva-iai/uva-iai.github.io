@@ -52,8 +52,10 @@ I am a postdoctoral researcher in machine learning at the University of Amsterda
 I am a visiting researcher working with Dr. Zeynep Akata under the support of a Fulbright grant. I recently completed my bachelors degree at the University of Texas at Austin and will start a PhD at UC Berkeley after my grant ends in June 2019. I work at the intersection of natural language processing and computer vision, and am interested in language grounding, semantics, and theory of mind.
 
 ### Pascal Mettes
-<img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.
+<div>
+  <span><img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px"></span>
+  <span>I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.</span>
+  </div>
 
 ### Maximilian Ilse
 <div>
