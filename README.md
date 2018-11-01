@@ -57,7 +57,6 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
   <div>I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.</div>
 </div>
 
-<div style="float:none;"></div>
 ### Maximilian Ilse
 
 
