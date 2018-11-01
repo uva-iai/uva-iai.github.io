@@ -58,9 +58,9 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
 </div>
 
 ### Maximilian Ilse
-<div>
+<figure>
   <img src="images/maxi.jpg" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-  <div>I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).</div>
-</div>
+I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).
+</figure>
 
 ## Contact
