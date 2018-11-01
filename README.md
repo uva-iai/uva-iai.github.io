@@ -57,7 +57,8 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
   <div>I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.</div>
 </div>
 
-### Maximilian Ilse
+<div style="clear:both;">### Maximilian Ilse</div>
+
 ![Maxi](images/maxi.jpg)
   
 I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).
