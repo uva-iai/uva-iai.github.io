@@ -44,7 +44,6 @@ My research involves multimodal, zero-shot and unsupervised learning for text an
 I am a PhD student in Deltalab, supervised by Max Welling &#38; Frans Oliehoek (TU Delft). Before starting my PhD, I studied Artificial Intelligence at University of Amsterdam. 
 
 My main research interests are reinforcement learning, multi-agent coordination and meta-RL, but I am also interested in deep learning and generative modeling, especially for use in planning &#38; learning for control.
-
 <div style="clear:left;"></div>
 ### Rianne van den Berg
 <img src="images/RiannevdB-foto.jpg" alt="Elise" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
@@ -67,4 +66,5 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
 <img src="images/maxi.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).
 
+<div style="clear:left;"></div>
 ## Contact
