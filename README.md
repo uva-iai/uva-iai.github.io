@@ -69,7 +69,7 @@ I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD 
 <div style="clear:left;"></div>
 ### Maartje ter Hoeve
 <img src="images/maartje.jpg" alt="Maartje" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten de Rijke and Dr. Zeynep Akata. Before starting my PhD I completed my MSc degree in Artificial Intelligence at the University of Amsterdam. Now I work on multimodal machine learning, with summarisation as main task. I am also interested in algorithmic explainability and reasoning. 
+I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten de Rijke and Dr. Zeynep Akata. Before starting my PhD I completed my MSc degree in Artificial Intelligence at the University of Amsterdam. Now I work on multi-modal machine learning, with summarisation as main task. I am also interested in algorithmic explainability and reasoning. 
 
 
 <div style="clear:left;"></div>
