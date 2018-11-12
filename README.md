@@ -67,4 +67,10 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
 I recently joint the Amsterdam Machine Learning Lab led by Max Welling as a PhD candidate. I am working at the intersection of medical imaging and fundamental machine learning research. Here, my research focus lies on domain adaptation, semi-supervised learning and transfer learning. Prior to my PhD - during my master’s degree and previous employment - I focused on working with time series (sound, movement, temperature).
 
 <div style="clear:left;"></div>
+### Maartje ter Hoeve
+<img src="images/maartje.jpg" alt="Maartje" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten de Rijke and Dr. Zeynep Akata. Before starting my Ph.D. I completed my MSc degree in Artificial Intelligence at the University of Amsterdam. Now I work on multimodal machine learning, with summarisation as main task. I am also interested in algorithmic explainability and reasoning. 
+
+
+<div style="clear:left;"></div>
 ## Contact
