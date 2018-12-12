@@ -83,3 +83,6 @@ I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten
 
 <div style="clear:left;"></div>
 ## Contact
+Questions, comment or want to become a mentor yourself? We are looking forward to hearing from you!
+
+Mail to: info.uva.iai@gmail.com
