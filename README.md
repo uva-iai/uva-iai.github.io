@@ -2,21 +2,30 @@
 
 ## Statement on UVA IAI
 
-We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The purpose of the IAI is to build a long-lasting community where members can connect with like-minded people of a similar background and help each other in an environment, where they may feel more at ease. 
+We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The IAI is an inclusive space for members to connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia, and more broadly in the tech sector.
 
-We have taken inspiration from organisations such as Inclusion in ML, Black in AI, Women in ML, Queer in ML, and Latinx in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA, focussing on:
-
-- female students, 
-- racial and ethnic minority students, 
-- economically and academically disadvantaged students, 
-- LGBTQ+ students, 
-- students with disabilities.
-
-## Mailing list
-
-We created a [mailing list](https://groups.google.com/forum/#!forum/uva-iai) that you can join to stay uptodate with our activities.
+We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA 
 
 ## Mentorships
+We currently offer a mentorship scheme for students of the UvA AI masters course. 
+
+Mentees are likely to come from structural minorities, including but not limited to:
+
+- female gendered and gender minorities, 
+- racial and ethnic minorities, 
+- economically disadvantaged minorities, 
+- the LGBTQ+ community, 
+- disabled people.
+
+
+Mentees should expect to be able to:
+
+- ask their mentor for practical advice, e.g. how to write a CV or motivation letter, where to apply for jobs, when to apply for PhDs
+- network with other students
+- seek pastoral advice from their mentor
+- learn how to present their research
+- connect with other researchers
+
 
 ## List of mentors
 ### Karen Ullrich
