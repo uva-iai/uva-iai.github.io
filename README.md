@@ -11,11 +11,11 @@ We currently offer a mentorship scheme for students of the UvA AI masters course
 
 Mentees are likely to come from structural minorities, including but not limited to:
 
-- female gendered and gender minorities, 
-- racial and ethnic minorities, 
-- economically disadvantaged minorities, 
-- the LGBTQ+ community, 
-- disabled people.
+- female gendered and gender minorities 
+- racial and ethnic minorities 
+- economically disadvantaged minorities 
+- the LGBTQ+ community 
+- disabled people
 
 
 Mentees should expect to be able to:
