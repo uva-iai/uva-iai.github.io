@@ -26,7 +26,7 @@ Mentees should expect to be able to:
 - learn how to present their research
 - connect with other researchers
 
-[https://goo.gl/forms/gOVvs3N39VkRwimu2](APPLY HERE)
+[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
 
 ## List of mentors
