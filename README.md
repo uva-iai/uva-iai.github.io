@@ -2,29 +2,30 @@
 
 ## Statement on UVA IAI
 
-We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The IAI is an inclusive space for members to connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia, and more broadly in the tech sector.
-
-We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA.
-
-## Mentorships
-We currently offer a mentorship scheme for students of the UvA AI masters course. 
-
-Mentees are likely to come from structural minorities, including but not limited to:
-
-- female gendered and gender minorities 
-- racial and ethnic minorities 
-- economically disadvantaged minorities 
-- the LGBTQ+ community 
-- disabled people
-
+We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
 
 Mentees should expect to be able to:
 
 - ask their mentor for practical advice, e.g. how to write a CV or motivation letter, where to apply for jobs, when to apply for PhDs
 - network with other students
-- seek pastoral advice from their mentor
+- seek non-academic/pastoral advice from their mentor
 - learn how to present their research
 - connect with other researchers
+
+We currently offer a mentorship scheme for students of the UvA AI masters program. 
+Mentees are likely to come from structural minorities, including but not limited to:
+
+- female gendered and gender minorities, 
+- racial and ethnic minorities, 
+- economically disadvantaged minorities, 
+- the LGBTQ+ community, 
+- disabled people.
+
+Mentees are expected to:
+
+Adhere to the UvA-IAI code of conduct
+
+We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA 
 
 [APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
