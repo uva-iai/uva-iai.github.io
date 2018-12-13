@@ -30,12 +30,6 @@ Mentees should expect to be able to:
 
 
 ## List of Mentors
-### Karen Ullrich
-<img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer.
-My research focus lies in machine learning. I am interested in statistical inference, information theory, deep learning, Bayesian methods, geometric methods and graph theory. I apply techniques of the aforementioned to problems in structural and systems biology, compression, sequential data (e.g. music, environmental data) and real-time sensoring.
-
-<div style="clear:left;"></div>
 ### Daniel Worrall
 <img src="images/daniel.jpeg" alt="Daniel" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a postdoc in Max Welling’s new Philips group at the UvA. I did my PhD at UCL in the Machine Vision Group. Before that I studied engineering at The University of Cambridge, and am a scholar of Sidney Sussex College. I am currently lecturing Probability Theory for Machine Learning, and am the lab manager for the Philips lab at the UvA.
@@ -71,6 +65,12 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
   <img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
   <div>I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.</div>
 </div>
+
+<div style="clear:left;"></div>
+### Karen Ullrich
+<img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer.
+My research focus lies in machine learning. I am interested in statistical inference, information theory, deep learning, Bayesian methods, geometric methods and graph theory. I apply techniques of the aforementioned to problems in structural and systems biology, compression, sequential data (e.g. music, environmental data) and real-time sensoring.
 
 <div style="clear:left;"></div>
 ### Maximilian Ilse
