@@ -4,7 +4,7 @@
 
 We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The IAI is an inclusive space for members to connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia, and more broadly in the tech sector.
 
-We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA 
+We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA.
 
 ## Mentorships
 We currently offer a mentorship scheme for students of the UvA AI masters course. 
