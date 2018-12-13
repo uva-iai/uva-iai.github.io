@@ -29,7 +29,7 @@ Mentees should expect to be able to:
 [APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
 
-## List of mentors
+## List of Mentors
 ### Karen Ullrich
 <img src="images/karen.jpg" alt="alt text" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a Ph.D. student at Uo Amsterdam, supervised by Prof. Max Welling and alumna of the Austrian Research Institute for AI, Intelligent Music Processing and Machine Learning Group lead by Prof. Gerhard Widmer.
