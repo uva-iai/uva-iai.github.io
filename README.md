@@ -27,7 +27,7 @@ Mentees are expected to:
 
 - Adhere to the UvA-IAI code of conduct
 
-We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of the KI Bachelor and AI Master at the UvA 
+We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of AI Master at the UvA 
 
 [APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
