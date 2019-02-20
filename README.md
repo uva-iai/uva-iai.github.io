@@ -15,14 +15,6 @@ Mentees should expect to be able to:
 - learn how to present their research
 - connect with other researchers
 
-Mentees are likely to come from structural minorities, including but not limited to:
-
-- female gendered and gender minorities, 
-- racial and ethnic minorities, 
-- economically disadvantaged minorities, 
-- the LGBTQ+ community, 
-- disabled people.
-
 Mentees are expected to:
 
 - Adhere to the UvA-IAI code of conduct
@@ -88,8 +80,8 @@ I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten
 <div style="clear:left;"></div>
 ### Dan Li
 <img src="images/dan.jpg" alt="Dan" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a Ph.D. candidate in ILPS group, supervised by Prof. Evangelos Kanoulas and Prof. Maarten de Rijke. I work on Interactive Information Retrieval and its Evaluation, as well as Conversational Search. My research interests also involve Deep Learning and Gaussian Process.
-Before starting my PhD, I worked on Collocation Extraction task and completed my master degree in Dalian University of Technology in China.
+I am a Ph.D. candidate in ILPS, supervised by Prof. Evangelos Kanoulas and Prof. Maarten de Rijke. I work on Interactive Information Retrieval and its Evaluation, as well as Conversational Search. My research interests also involve Deep Learning and Gaussian Processes.
+Before starting my PhD, I worked on the Collocation Extraction task and completed my masters degree at the Dalian University of Technology in China.
 
 <div style="clear:left;"></div>
 ## Contact
