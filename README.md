@@ -88,3 +88,14 @@ Before starting my PhD, I worked on the Collocation Extraction task and complete
 Questions, comments or want to become a mentor yourself? We are looking forward to hearing from you!
 
 Mail to: info.uva.iai@gmail.com
+
+<div style="clear:left;"></div>
+### Sadaf Gulshad
+<img src="images/sadaf.jpg" alt="Sadaf" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I am a Ph.D. researcher at UvA Bosch Delta Lab supervised by Arnold Smeulders and Zeynep Akata. I am working on explainable aritifical intelligence and on making classifiers robust especially when confronted with adversarial examples. Before moving to Amsterdam I did my master's in Electrical Engineering from KAIST, South Korea and bachelor's from COMSATS, Pakistan. 
+
+<div style="clear:left;"></div>
+## Contact
+Questions, comments or want to become a mentor yourself? We are looking forward to hearing from you!
+
+Mail to: info.uva.iai@gmail.com
