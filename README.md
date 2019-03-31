@@ -21,7 +21,8 @@ Mentees are expected to:
 
 We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar such space for students of AI Master at the UvA 
 
-[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
+<!--[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)-->
+Applications are now closed. There will be another round starting September 2019.
 
 
 ## List of Mentors
@@ -82,12 +83,6 @@ I am a Ph.D. student at the University of Amsterdam, supervised by Prof. Maarten
 <img src="images/dan.jpg" alt="Dan" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a Ph.D. candidate in ILPS, supervised by Prof. Evangelos Kanoulas and Prof. Maarten de Rijke. I work on Interactive Information Retrieval and its Evaluation, as well as Conversational Search. My research interests also involve Deep Learning and Gaussian Processes.
 Before starting my PhD, I worked on the Collocation Extraction task and completed my masters degree at the Dalian University of Technology in China.
-
-<div style="clear:left;"></div>
-## Contact
-Questions, comments or want to become a mentor yourself? We are looking forward to hearing from you!
-
-Mail to: info.uva.iai@gmail.com
 
 <div style="clear:left;"></div>
 ### Sadaf Gulshad
