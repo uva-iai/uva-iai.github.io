@@ -2,7 +2,7 @@
 
 ## Statement on UVA IAI
 
-We are proud to announce that the UvA Instituut voor Informatica is opening a new Inclusive AI (IAI) community. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
+The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) community. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
 
 ## Mentorship
 We currently offer a mentorship scheme for students of the UvA AI masters program. 
@@ -11,7 +11,7 @@ Mentees should expect to be able to:
 
 - ask their mentor for practical advice, e.g. how to write a CV or motivation letter, where to apply for jobs, when to apply for PhDs
 - network with other students
-- seek non-academic/pastoral advice from their mentor
+- seek non-academic advice from their mentor
 - learn how to present their research
 - connect with other researchers
 
