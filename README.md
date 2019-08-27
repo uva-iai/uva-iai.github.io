@@ -93,7 +93,7 @@ I am a Ph.D. researcher at UvA Bosch Delta Lab supervised by Arnold Smeulders an
 
 <div style="clear:left;"></div>
 ### Tim Bakker
-<img src="images/tim.jpg" alt="Tim" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+<img src="images/tim.jpg" alt="Tim" width="134" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I'm a PhD student in AMLab at the University of Amsterdam, working with prof. Max Welling and dr. Herke van Hoof on efficient deep learning, with a focus on active learning and uncertainty estimation. Before moving into machine learning I studied theoretical physics at the UvA, and I've previously worked as a machine learning engineer/researcher in an ML-focused consultancy startup in Amsterdam.
 
 
