@@ -50,10 +50,12 @@ My main research interests are reinforcement learning, multi-agent coordination 
 <img src="images/RiannevdB-foto.jpg" alt="Elise" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a postdoctoral researcher in machine learning at the University of Amsterdam under the supervision of Prof. Max Welling. My main research interest is deep generative modeling from a probabilistic point of view. In particular, I work on variational inference, normalizing flows and generative adversarial networks. Recently, I also became interested in deep learning for dynamical systems described by differential equations. I am also interested in deep learning for graph-based data.
 
+<!--
 <div style="clear:left;"></div>
 ### Rodolfo (Rudy) Corona
 <img src="images/rudy.jpeg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a visiting researcher working with Dr. Zeynep Akata under the support of a Fulbright grant. I recently completed my bachelors degree at the University of Texas at Austin and will start a PhD at UC Berkeley after my grant ends in June 2019. I work at the intersection of natural language processing and computer vision, and am interested in language grounding, semantics, and theory of mind.
+-->
 
 <div style="clear:left;"></div>
 ### Pascal Mettes
@@ -88,6 +90,12 @@ Before starting my PhD, I worked on the Collocation Extraction task and complete
 ### Sadaf Gulshad
 <img src="images/sadaf.jpg" alt="Sadaf" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I am a Ph.D. researcher at UvA Bosch Delta Lab supervised by Arnold Smeulders and Zeynep Akata. I am working on explainable aritifical intelligence and on making classifiers robust especially when confronted with adversarial examples. Before moving to Amsterdam I did my master's in Electrical Engineering from KAIST, South Korea and bachelor's from COMSATS, Pakistan. 
+
+<div style="clear:left;"></div>
+### Tim Bakker
+<img src="images/tim.jpg" alt="Tim" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I'm a PhD student in AMLab at the University of Amsterdam, working with prof. Max Welling and dr. Herke van Hoof on efficient deep learning, with a focus on active learning and uncertainty estimation. Before moving into machine learning I studied theoretical physics at the UvA, and I've previously worked as a machine learning engineer/researcher in an ML-focused consultancy startup in Amsterdam.
+
 
 <div style="clear:left;"></div>
 ## Contact
