@@ -21,8 +21,7 @@ Mentees are expected to:
 
 We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar space for students of AI Master at the UvA.
 
-<!--[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)-->
-Applications are now closed. There will be another round starting September 2019.
+[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
 
 ## List of Mentors
