@@ -58,10 +58,8 @@ I am a visiting researcher working with Dr. Zeynep Akata under the support of a 
 
 <div style="clear:left;"></div>
 ### Pascal Mettes
-<div>
-  <img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-  <div>I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.</div>
-</div>
+<img src="images/pascal.jpg" alt="Rudy" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I am a postdoctoral researcher at the University of Amsterdam under the supervision of prof. Cees Snoek. My primary research topic is the recognition and spatio-temporal localization of actions in videos. My research interests also include deep learning and representation learning.
 
 <div style="clear:left;"></div>
 ### Karen Ullrich
@@ -94,6 +92,11 @@ I am a Ph.D. researcher at UvA Bosch Delta Lab supervised by Arnold Smeulders an
 ### Tim Bakker
 <img src="images/tim.jpg" alt="Tim" width="134" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
 I'm a PhD student in AMLab at the University of Amsterdam, working with prof. Max Welling and dr. Herke van Hoof on efficient deep learning, with a focus on active learning and uncertainty estimation. Before moving into machine learning I studied theoretical physics at the UvA, and I've previously worked as a machine learning engineer/researcher in an ML-focused consultancy startup in Amsterdam.
+
+<div style="clear:left;"></div>
+### Shihan Wang
+<img src="images/Shihan.png" alt="Shihan" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I'm a postdoctoral researcher in AMLab at the University of Amsterdam, working with prof. Ben Krose and dr. Herke van Hoof on data mining and applied machine learning. Recently, I am interested in how to integrate efficient machine learning techniques in ubiquitous computing and social computing tasks. Before moving to Amsterdam, I received my degrees from Tokyo Institute of Technology, University of Edinburgh and Northeastern University (in China). 
 
 
 <div style="clear:left;"></div>
