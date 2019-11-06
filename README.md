@@ -111,6 +111,6 @@ I'm a postdoctoral researcher in AMLab at the University of Amsterdam, working w
 
 <div style="clear:left;"></div>
 ## Contact
-Questions, comments or want to become a mentor yourself? We are looking forward to hearing from you!
+Questions, comments or ideas? We are looking forward to hearing from you!
 
 Mail to: info.uva.iai@gmail.com
