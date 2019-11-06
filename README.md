@@ -4,6 +4,14 @@
 
 The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) community. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
 
+## Code of Conduct
+1. Privacy is important to us. Do not share details about others that they have not explicitly made public. This includes, but is not limited to, sexuality, gender, medical conditions, housing, relationships or financial status.
+2. Aggression and elitism are unwelcome - knowledge is not a competition. After all you are here to support each other, so do that whenever you can.
+3. Do not engage in homophobic, racist, transphobic, ableist, sexist, or otherwise exclusionary behaviour. Do not make jokes related to these either. Use people’s preferred pronouns (don't be afraid to ask).
+4. We're here for the mutual benefit of our work lives, not our love lives. Should a romantic involvement evolve during mentorship, we strongly encourage you to let us know so we can reassign mentor and mentee. Harassment will not be tolerated in any form. 
+5. We take collective responsibility for making all members feel welcome and agree to act accordingly.
+
+
 ## Mentorship
 We currently offer a mentorship scheme for students of the UvA AI masters program. 
 
@@ -23,6 +31,8 @@ We have taken inspiration from organisations such as Black in AI, Women in ML, Q
 
 [APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
 
+## Becoming a Mentor
+If you want to become a mentor yourself [APPLY HERE](https://forms.gle/mqzsrREZBUtpQPxg7).
 
 ## List of Mentors
 ### Daniel Worrall
