@@ -8,7 +8,7 @@ The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) co
 1. Privacy is important to us. Do not share details about others that they have not explicitly made public. This includes, but is not limited to, sexuality, gender, medical conditions, housing, relationships or financial status.
 2. Aggression and elitism are unwelcome - knowledge is not a competition. After all you are here to support each other, so do that whenever you can.
 3. Do not engage in homophobic, racist, transphobic, ableist, sexist, or otherwise exclusionary behaviour. Do not make jokes related to these either. Use people’s preferred pronouns (don't be afraid to ask).
-4. Harassment will not be tolerated in any form. nder no circumstances should a mentor be romantically involved with their mentee. Should romantic feelings develop nonetheless, we will reassign mentor and mentee.
+4. Harassment will not be tolerated in any form. Under no circumstances should a mentor be romantically involved with their mentee. Should romantic feelings develop nonetheless, we will reassign mentor and mentee.
 5. We take collective responsibility for making all members feel welcome and agree to act accordingly.
 
 
