@@ -2,7 +2,7 @@
 
 ## Statement on UVA IAI
 
-The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) community. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
+The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) community for the Master's programme AI. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
 
 ## Code of Conduct
 1. Privacy is important to us. Do not share details about others that they have not explicitly made public. This includes, but is not limited to, sexuality, gender, medical conditions, housing, relationships or financial status.
