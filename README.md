@@ -84,6 +84,11 @@ I am a Ph.D. candidate in ILPS, supervised by Prof. Evangelos Kanoulas and Prof.
 Before starting my PhD, I worked on the Collocation Extraction task and completed my masters degree at the Dalian University of Technology in China.
 
 <div style="clear:left;"></div>
+### Dan Li
+<img src="images/ana.png" alt="Ana" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
+I’m a PhD student at the University of Amsterdam, supervised by Prof. Maarten de Rijke and Prof. Hinda Haned, working primarily on interpretable machine learning. My other research interests include algorithmic fairness, ensemble learning, and graph representation learning. Before starting my PhD, I did my BSc and MSc, both in mathematics, at McMaster University in Canada. 
+
+<div style="clear:left;"></div>
 ## Contact
 Questions, comments or want to become a mentor yourself? We are looking forward to hearing from you!
 
