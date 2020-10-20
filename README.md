@@ -1,5 +1,22 @@
 # Universiteit Van Amsterdam Inclusive AI
 
+## UVA Inclusive AI invites Shakir Mohamed
+We invite everybody that is studying, teaching, and researching AI at the University of Amsterdam to join a virtual talk and discussion with Shakir Mohamed (Google DeepMind) on Decolonial AI and Sociotechnical Foresight.
+
+The talk and discussion will take place on the 26th of October 2020, 15:00, via Zoom: https://uva-live.zoom.us/j/89025891407
+
+
+In order to avoid Zoombombing, you need a UVA email address to participate.
+
+
+We chose to use the webinar format. After and during the talk participants can enter questions via the chat and vote on questions. We will then enable the video and audio of the person that authored the question. Please consider reading his latest work before the talk:
+
+Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence https://arxiv.org/abs/2007.04068
+
+CALL FOR QUESTIONS
+
+In addition, we encourage everybody to prepare and submit questions for Shakir to info.uva.iai@gmail.com during the next week. 
+
 ## Statement on UVA IAI
 
 The UvA Instituut voor Informatica is the proud home of an Inclusive AI (IAI) community for the Master's programme AI. The IAI is an inclusive space for members to get non-academic help from senior peers in the field and connect with like-minded people of a similar background. Our goal is to directly combat the infamous leaky pipeline found in academia.
