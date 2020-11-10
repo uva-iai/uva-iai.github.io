@@ -46,10 +46,10 @@ Mentees are expected to:
 
 We have taken inspiration from organisations such as Black in AI, Women in ML, Queer in AI, Latinx in ML, and Jews in ML, which all aim to celebrate diversity and foster participation from underrepresented groups in AI. The IAI establishes a similar space for students of AI Master at the UvA.
 
-[APPLY HERE](https://goo.gl/forms/gOVvs3N39VkRwimu2)
+[APPLY HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05UeKKkJx8FpEksTnCB_LDndUMzJSNEozVTY4Wlg3WDU5VjFYNDdGMDVaVC4u)
 
 ## Becoming a Mentor
-If you want to become a mentor yourself [APPLY HERE](https://forms.gle/mqzsrREZBUtpQPxg7).
+If you want to become a mentor yourself [APPLY HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05UeKKkJx8FpEksTnCB_LDndUNDVSNDFLVDNBSkZTREJLVTZWRUVLSzVaUi4u).
 
 ## List of Mentors
 ### Daniel Worrall
