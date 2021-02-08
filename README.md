@@ -68,9 +68,7 @@ My research involves multimodal, zero-shot and unsupervised learning for text an
 <div style="clear:left;"></div>
 ### Elise van der Pol
 <img src="images/elise.jpg" alt="Elise" width="200" height="200" style="float: left; margin-right: 15px; margin-top: 7px">
-I am a PhD student in Deltalab, supervised by Max Welling &#38; Frans Oliehoek (TU Delft). Before starting my PhD, I studied Artificial Intelligence at University of Amsterdam. 
-
-My main research interests are reinforcement learning, multi-agent coordination and meta-RL, but I am also interested in deep learning and generative modeling, especially for use in planning &#38; learning for control.
+I'm a PhD student in the Amsterdam Machine Learning Lab, working with Max Welling (UvA), Frans Oliehoek (TU Delft) and Herke van Hoof (UvA). My research interests lie in structure, symmetry, and equivariance in reinforcement learning and machine learning. Before my PhD, I studied Artificial Intelligence at the University of Amsterdam.
 
 <div style="clear:left;"></div>
 ### Rianne van den Berg
